@@ -17,3 +17,17 @@ for (let i = 0; i < listaMail.length; i++) {
   }
   console.log(listaMail);
 }
+
+console.log('Dadi');
+
+// Numeri casuali di User e CPU
+let numbRandomUser = Math.floor(Math.random() * 12);
+let numbRandomCpu = Math.floor(Math.random() * 12);
+console.log(numbRandomCpu, numbRandomUser);
+
+// Condizione 
+if(numbRandomUser > numbRandomCpu){
+  console.log('The winner is User');
+}else{
+  console.log('The winner is CPU');
+}

@@ -28,3 +28,9 @@ Se dobbiamo confrontare qualcosa che “cosa” ci serve?
 3. Ciclo della listaMail;
 4. Condizione per il quale controlla se l'email esiste nella listaMail;
 5. Se esiste stampa Accedi, se non esiste stampa Registrati.
+
+**Dadi**
+
+1. Creo una variabile di estrazione di numeri casuali dell'utente;
+2. Creo una variabile di estrazione di numeri casuali della CPU;
+3. Creo una condizione nel quale mi stampa chi é il vincitore in base a chi ha il numero piú alto.
