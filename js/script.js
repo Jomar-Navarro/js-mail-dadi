@@ -28,6 +28,9 @@ console.log(numbRandomCpu, numbRandomUser);
 // Condizione 
 if(numbRandomUser > numbRandomCpu){
   console.log('The winner is User');
+
+}else if (numbRandomUser < numbRandomCpu){
+  console.log('The winnwe is The CPU');
 }else{
-  console.log('The winner is CPU');
+  console.log('Draw');
 }
